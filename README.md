@@ -10,7 +10,7 @@
 This repository is for demonstrating the detection and tracking of the Intertropical Convective Cell (ITCC). 
 
 ### Usage: ###  
-Please refer to *ITCC_demo.m*
+For demonstration, please refer to ***ITCC_demo.m.***
     
 ### Platform Requirement: ###  
 The source codes were developed in Matlab (version 2019a or later).
