@@ -2,9 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/703332420.svg)](https://zenodo.org/badge/latestdoi/703332420)
 
-**Author:** Tat Fan (Franklin) Cheng
-
-**Email:** fandycheng@ust.hk
+**Author:** Tat Fan (Franklin) Cheng (fandycheng@ust.hk)
 
 ---
 
