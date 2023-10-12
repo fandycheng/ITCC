@@ -2,7 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/703332420.svg)](https://zenodo.org/badge/latestdoi/703332420)
 
-**Author:** Tat Fan (Franklin) Cheng (fandycheng@ust.hk)
+**Project Leader:** Dr. Tat Fan Cheng, Franklin (fandycheng@ust.hk)
+
+**Co-authors/Supervisor:** Prof. Mengqian Lu, Prof. Bin Wang, Dr. Lun Dai
 
 ---
 
