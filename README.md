@@ -11,6 +11,7 @@ This repository is for demonstrating the detection and tracking of the Intertrop
 
 ### Usage: ###  
 For demonstration, please refer to ***ITCC_demo.m.***
+For the results of the ITCC tracking based on ERA5 OLR and NOAA CDR OLR, load ***ITCC_attrs_ERA5_OLR.mat*** and ***ITCC_attrs_NOAA_CDR_OLR.mat***
     
 ### Platform Requirement: ###  
 The source codes were developed in Matlab (version 2019a or later).
