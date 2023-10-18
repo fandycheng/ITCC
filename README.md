@@ -1,6 +1,6 @@
 # Intertropical Convective Cell (ITCC)
 
-[![DOI](https://zenodo.org/badge/703332420.svg)](https://zenodo.org/badge/latestdoi/703332420)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8433215.svg)](https://doi.org/10.5281/zenodo.8433215)
 
 **Project Leader:** Dr. Tat Fan Cheng, Franklin (fandycheng@ust.hk)
 
